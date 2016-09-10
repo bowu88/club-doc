@@ -9,7 +9,6 @@
 - [策划线上运营活动](./doc/the-celebration-of-avator.md)
 
 ## 团队分享
-- [胡明实习分享](./share/2015.10.31-HuMingMing/humingming.md)
 
 ## 团队管理
 - [面试技术人员](./doc/interview.md)

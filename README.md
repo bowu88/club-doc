@@ -8,7 +8,13 @@
 ## 团队活动
 - [策划线上运营活动](./doc/the-celebration-of-avator.md)
 
+
+## 算法
+- [排序算法总结](https://segmentfault.com/a/1190000004994003)
+
+
 ## 团队分享
+
 
 ## 团队管理
 - [面试技术人员](./doc/interview.md)

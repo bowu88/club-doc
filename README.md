@@ -11,7 +11,7 @@
 
 ## 算法
 - [排序算法总结](https://segmentfault.com/a/1190000004994003)
-
+- [推荐算法 阿里分享](http://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247483811&idx=1&sn=fc3ee4ddfc4a8d6014a4cd90cdb5983c&scene=2&srcid=0908x4dCBYio1QtyuKFmAQBK#wechat_redirect)
 
 ## 团队分享
 
